@@ -2,13 +2,15 @@
 
 ## A 2.5 hour long programming contest organized by ACM Student Chapter JUIT.
 
-* **Problem 1:** [Gobstones](https://www.hackerrank.com/contests/codigo-5-0/challenges/gobstones)
-* **Problem 2:** [Chamber of Secrets](https://www.hackerrank.com/contests/codigo-5-0/challenges/the-chamber-of-secrets-1)
-* **Problem 3:** [Ron's Misery](https://www.hackerrank.com/contests/codigo-5-0/challenges/rons-misery)
-* **Problem 4:** [McGonagall's Challenge](https://www.hackerrank.com/contests/codigo-5-0/challenges/mcgonagalls-challenge)
-* **Problem 5:** [Harry's Dream](https://www.hackerrank.com/contests/codigo-5-0/challenges/harrys-dream)    
+* **Problem 1:** [Message for Lord Varys](https://www.hackerrank.com/contests/codeknight-3-0/challenges/tyrions-message)
+* **Problem 2:** [The last Drink](https://www.hackerrank.com/contests/codeknight-3-0/challenges/the-last-drink)
+* **Problem 3:** [Unsullied Army](https://www.hackerrank.com/contests/codeknight-3-0/challenges/unsullied-army-1)
+* **Problem 4:** [Bran's Good Number](https://www.hackerrank.com/contests/codeknight-3-0/challenges/brans-good-number)
+* **Problem 5:** [Free Folk Residence](https://www.hackerrank.com/contests/codeknight-3-0/challenges/free-folk-residence) 
+* **Problem 5:** [Westeros Postal Service](https://www.hackerrank.com/contests/codeknight-3-0/challenges/westeros-postal-service) 
+* **Problem 5:** [The Targaryen Treasure](https://www.hackerrank.com/contests/codeknight-3-0/challenges/the-targaryen-treasure)    
 
 
 ### Leaderboard
 
-Find the Leaderboard of the challenge [here](https://www.hackerrank.com/contests/codigo-5-0/leaderboard).
+Find the Leaderboard of the challenge [here](https://www.hackerrank.com/contests/codeknight-3-0/leaderboard).
